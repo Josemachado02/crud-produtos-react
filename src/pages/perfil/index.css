@@ -1,0 +1,30 @@
+#container-perfil{
+    margin-top: 100px;
+    text-align: center;
+}
+
+#div-inferior,
+#div-superior {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+#data-usuario,
+#email-usuario,
+#nome-usuario,
+#id-usuario,
+#img-perfil {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+#data-usuario,
+#email-usuario,
+#nome-usuario,
+#id-usuario{
+    height: 100%; 
+}

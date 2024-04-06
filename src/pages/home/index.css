@@ -1,0 +1,21 @@
+#Inicial{
+    margin-top: 50px;
+    padding: 15px;
+}
+
+#titulo {
+    text-align: center;
+    padding: 15px;
+    color: var(--cor-primaria);
+}
+
+#txt-informativo {    
+    text-align: center;
+    padding: 15px;
+    color: var(--cor-secundaria);
+}
+
+#div-imagem{
+    margin-top: 40px;
+    text-align: center;
+}

@@ -1,0 +1,30 @@
+#logo {
+    text-align: center;
+    margin-top: 10px;
+}
+
+#btn-sair:hover {
+    background-color: var(--cor-secundaria);
+    cursor: pointer;
+}
+
+#txt-titulo {
+    color: var(--cor-primaria);
+    text-align: center;
+}
+
+#btn-adicionar:hover {
+    background-color: var(--cor-secundaria);
+    cursor: pointer;
+}
+
+#botoes {
+    text-align: center;
+}
+
+.btn-outline-primary {
+    margin-right: 3px;
+    background-color: var(--cor-primaria);
+    color: var(--cor-terciaria);
+    border: none;
+}
